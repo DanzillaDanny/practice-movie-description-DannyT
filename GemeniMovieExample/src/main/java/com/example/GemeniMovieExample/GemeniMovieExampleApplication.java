@@ -1,4 +1,4 @@
-package com.example.GemeniMovieExample;
+package main.java.com.example.GemeniMovieExample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
