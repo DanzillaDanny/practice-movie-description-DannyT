@@ -1,10 +1,10 @@
-package java.com.example.GeminiMovieExample;
+package com.example.GeminiMovieExample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GeminiMovieExampleApplicationTests {
+class GeminiMovieRequestExampleApplicationTests {
 
     @Test
     void contextLoads() {

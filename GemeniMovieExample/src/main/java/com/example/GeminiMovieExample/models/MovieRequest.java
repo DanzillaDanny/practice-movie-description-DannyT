@@ -1,8 +1,6 @@
 package com.example.GeminiMovieExample.models;
 
-import com.google.genai.types.GenerateContentResponse;
-
-public class Movie {
+public class MovieRequest {
     private String title;
     private int rating;
     private String description;
@@ -11,7 +9,7 @@ public class Movie {
 
     String newline = System.lineSeparator();
 
-    public Movie(String title, int rating, String description, String cast, String averageRating) {
+    public MovieRequest(String title, int rating, String description, String cast, String averageRating) {
         this.title = title;
         this.rating = rating;
         this.description = description;
