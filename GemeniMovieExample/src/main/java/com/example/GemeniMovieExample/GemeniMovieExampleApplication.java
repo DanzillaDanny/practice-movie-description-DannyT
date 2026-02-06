@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GemeniMovieExampleApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GemeniMovieExampleApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(GemeniMovieExampleApplication.class, args);
+    }
 
-
+}
 
