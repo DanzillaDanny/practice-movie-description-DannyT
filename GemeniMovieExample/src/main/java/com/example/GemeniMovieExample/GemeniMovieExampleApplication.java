@@ -10,5 +10,5 @@ public class GemeniMovieExampleApplication {
 		SpringApplication.run(GemeniMovieExampleApplication.class, args);
 	}
 
-}
+
 
