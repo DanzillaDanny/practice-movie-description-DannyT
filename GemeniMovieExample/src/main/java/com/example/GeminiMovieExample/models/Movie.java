@@ -52,5 +52,4 @@ public String toString() {
                     "Rating: " + rating + newline;
     "Description: " + description + newline;
 }
-}
 

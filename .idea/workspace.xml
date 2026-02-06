@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb0fc955-72bb-4d4a-8fe5-2b891a293384" name="Changes" comment="" />
+    <list default="true" id="ab74ac0f-8829-4677-97d7-e36dfa3f5f97" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/GeminiMovieExample/GeminiMovieExampleApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GeminiMovieExample/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/GeminiMovieExample/models/Movie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -21,33 +38,61 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/DanzillaDanny/practice-movie-description-Danny-T",
+    "url": "https://github.com/DanzillaDanny/practice-movie-description-DannyT.git",
     "accountId": "a3ac6bee-79f5-4ccf-b4a4-9a81521ea54c"
   }
 }]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="39HUI4qPuFooJBPKi7fGbOW0jE8" />
+  <component name="ProjectId" id="39HfAohfnEurP5XLo6R0HnTjA3Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GeminiMovieExampleApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/danny/Launch code/practice-movie-description-Danny-T/GemeniMovieExample/src",
+    "last_opened_file_path": "C:/Users/danny/Launch code/practice-movie-description-Danny-T/GemeniMovieExample",
+    "settings.editor.selected.configurable": "copyright",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\Movie Manager\Movie-Manager" />
+      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\GemeniMovieExample\src\test\src" />
+      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\GemeniMovieExample" />
+      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\GemeniMovieExample\src\main\java\com\example" />
+      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\GemeniMovieExample\src\main\java" />
+      <recent name="C:\Users\danny\Launch code\practice-movie-description-Danny-T\GemeniMovieExample\src\main\com" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.example.GeminiMovieExample.GeminiMovieExampleApplication" />
+      <module name="GemeniMovieExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -58,12 +103,98 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb0fc955-72bb-4d4a-8fe5-2b891a293384" name="Changes" comment="" />
-      <created>1770352406906</created>
+      <changelist id="ab74ac0f-8829-4677-97d7-e36dfa3f5f97" name="Changes" comment="" />
+      <created>1770357775891</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770352406906</updated>
+      <updated>1770357775891</updated>
     </task>
+    <task id="LOCAL-00001" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770358815755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770358815755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359035825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359035825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359060241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359060241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359169634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359169634</updated>
+    </task>
+    <task id="LOCAL-00005" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359216115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359216115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359239559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359239559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770359320145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359320145</updated>
+    </task>
+    <task id="LOCAL-00008" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770364459575</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770364459575</updated>
+    </task>
+    <task id="LOCAL-00009" summary="set up">
+      <option name="closed" value="true" />
+      <created>1770364497926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770364497926</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes">
+      <option name="closed" value="true" />
+      <created>1770401397867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770401397867</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set up" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
