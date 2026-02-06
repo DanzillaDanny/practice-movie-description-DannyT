@@ -1,13 +1,13 @@
-package main.java.com.example.GemeniMovieExample;
+package main.java.com.example.GeminiMovieExample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GemeniMovieExampleApplication {
+public class GeminiMovieExampleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GemeniMovieExampleApplication.class, args);
+        SpringApplication.run(GeminiMovieExampleApplication.class, args);
     }
 
 }
