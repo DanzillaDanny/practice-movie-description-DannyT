@@ -1,3 +1,4 @@
+// language: java
 package com.example.GeminiMovieExample.service;
 
 import com.google.genai.Client;
@@ -16,9 +17,11 @@ public class GeminiService {
 
     public GeminiService(@Value("${gemini.api.key:}") String apiKey) {
         if (apiKey == null || apiKey.isBlank()) {
-            throw new IllegalStateException("gemini.api.key is missing");
+            log.warn("gemini.api.key is not configured; Gemini calls will be disabled in this environment.");
+            this.client = null;
+        } else {
+            this.client = new Client.Builder().apiKey(apiKey).build();
         }
-        this.client = new Client.Builder().apiKey(apiKey).build();
     }
 
     public String getMovieInformation(String question) {

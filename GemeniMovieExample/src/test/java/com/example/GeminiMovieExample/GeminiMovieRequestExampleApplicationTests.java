@@ -9,5 +9,4 @@ class GeminiMovieRequestExampleApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
